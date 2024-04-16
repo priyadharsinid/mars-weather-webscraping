@@ -3,7 +3,7 @@ For this project, I used webscraping to extract information regarding weather on
 
 This project was completed using the following workflow:
 
-Deliverable 1: Scrape titles and preview text from Mars news articles. Optionally export the data into a JSON file or a MongoDB database.
+Deliverable 1: Scrape titles and preview text from Mars news articles. 
 
 Deliverable 2: Scrape and analyze Mars weather data, which exists in a table.
 
