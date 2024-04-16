@@ -1,4 +1,4 @@
-## mars-weather-webscraping
+## Mars-Weather-Webscraping
 For this project, I used webscraping to extract information regarding weather on Mars, then cleaned, visualized, and analyzed data using Python.
 
 This project was completed using the following workflow:
