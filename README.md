@@ -37,13 +37,13 @@ Which month, on average, has the lowest atmospheric pressure? The highest?
 
 How many terrestrial days exist in a Martian year? A visual estimate within 25% was made.
 
-Methods used:
+## Requirements
 
 Python
 
 JSON
 
-MongoDB
+HTML
 
 Beautiful Soup
 
