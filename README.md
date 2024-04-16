@@ -13,8 +13,6 @@ Store all the dictionaries in a Python list.
 
 Print the list in your notebook.
 
-Optionally, store the scraped data in a file or database (to ease sharing the data with others). To do so, export the scraped data to either a JSON file or a MongoDB database.
-
 The URL to find Mars Temperature Data is https://data-class-mars-challenge.s3.amazonaws.com/Mars/index.html.
 
 Scrape the data in the HTML table.
